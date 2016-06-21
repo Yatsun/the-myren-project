@@ -1,0 +1,21 @@
+body {
+	width: 100%;
+}
+.menu {
+	background-color: #22095e;
+	text-align: center;
+	height: 40px;
+}
+.menu img{
+	margin-top: 5px;
+	width: 26px;
+	height: 100%;
+}
+.menu a {
+	color: #FAFAFA;
+	height: 36px;
+}
+
+.menubloc {
+	margin-top: 10px;
+}
